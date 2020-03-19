@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/org.dieschnittstelle.mobile.android.samples.inputandfeedback.iml" filepath="$PROJECT_DIR$/org.dieschnittstelle.mobile.android.samples.inputandfeedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="inputandfeedback/app" />
+      <module fileurl="file://$PROJECT_DIR$/inputandfeedback.iml" filepath="$PROJECT_DIR$/inputandfeedback.iml" group="inputandfeedback" />
     </modules>
   </component>
 </project>
